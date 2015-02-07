@@ -13,3 +13,6 @@ file_name
 | 5_functions_methods.bat 	| - Using functions and methods |
 | 6_libraries.bat			| - Using libraries (Datetime and random) |
 | 7_io.bat					| - Read standard input and manipulate files |
+| 8_0_export_data.bat 		| - Export variables |
+| 8_0_export_functions.bat 	| - Export functions |
+| 8_1_importing_files.bat 	| - Import files |
