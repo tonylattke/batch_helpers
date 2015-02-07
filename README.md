@@ -12,3 +12,4 @@ file_name
 | 4_loops.bat				| - Using loops (While and For) |
 | 5_functions_methods.bat 	| - Using functions and methods |
 | 6_libraries.bat			| - Using libraries (Datetime and random) |
+| 7_io.bat					| - Read standard input and manipulate files |
